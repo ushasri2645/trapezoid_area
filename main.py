@@ -3,3 +3,4 @@
 
 
 value=summ/2
+op=value*h
