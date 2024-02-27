@@ -2,8 +2,5 @@
 
 summ=a+b
 value=summ/2
+op=value*h
 
-
-
-value=summ/2
-o/p=value*h
